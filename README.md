@@ -32,3 +32,19 @@ ADD  <directories realtime="yes" whodata="yes" report_changes="yes" >C:\Users\Pu
 ![image](https://github.com/user-attachments/assets/84487142-abf0-42d3-8889-077e2db17ca3)
 
 
+WAZUH_File-integrity-monitoring for linux
+
+![image](https://github.com/user-attachments/assets/1c040297-25ba-433b-afa2-d70172a9fc40)
+![image](https://github.com/user-attachments/assets/a4fe1384-01c2-457d-a400-40e69cb7f72e)
+![image](https://github.com/user-attachments/assets/621c3658-18a1-4829-a23d-47ff273edc5b)
+![image](https://github.com/user-attachments/assets/dff3bdaa-3329-48db-ae73-50eb1c081f14)
+![image](https://github.com/user-attachments/assets/d42d8ecb-e49a-4fd0-9dc3-7ca61a930c6a)
+![image](https://github.com/user-attachments/assets/1b63ec51-7931-451f-a4a0-0263fed22ddb)
+![image](https://github.com/user-attachments/assets/7a33c1b1-04d9-4978-ac54-074dc1d32cfd)
+![image](https://github.com/user-attachments/assets/1de2494c-cf17-43f9-b8ac-74c29fcee4cb)
+![image](https://github.com/user-attachments/assets/0dd59f4b-1deb-48e3-84a4-46fec41fc6fc)
+
+
+
+
+
