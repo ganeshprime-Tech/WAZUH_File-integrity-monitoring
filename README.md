@@ -64,11 +64,15 @@ WAZUH_File-integrity-monitoring for linux
 
 ![image](https://github.com/user-attachments/assets/a4fe1384-01c2-457d-a400-40e69cb7f72e)
 
+now I'm create the file name as malware_one.txt using touch malware_one.txt file
+
 ![image](https://github.com/user-attachments/assets/621c3658-18a1-4829-a23d-47ff273edc5b)
 
 ![image](https://github.com/user-attachments/assets/dff3bdaa-3329-48db-ae73-50eb1c081f14)
 
 ![image](https://github.com/user-attachments/assets/d42d8ecb-e49a-4fd0-9dc3-7ca61a930c6a)
+
+now I'm modifing the content on the malware_one.txt
 
 ![image](https://github.com/user-attachments/assets/1b63ec51-7931-451f-a4a0-0263fed22ddb)
 
