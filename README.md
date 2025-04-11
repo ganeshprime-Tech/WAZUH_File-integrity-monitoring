@@ -1,8 +1,6 @@
 # WAZUH_File-integrity-monitoring
 File Integrity Monitoring For Linux
 
-Step 1:
-
 This is show wazuh server IP address 
 
 ![image](https://github.com/user-attachments/assets/206b6ea9-4130-4b35-91cc-616171cb5b79)
@@ -53,6 +51,10 @@ now I'm modify the contant on the malwareone.txt
 ![image](https://github.com/user-attachments/assets/79f373f4-b3b3-4fd6-9ade-6d6395c5f102)
 
 ![image](https://github.com/user-attachments/assets/84487142-abf0-42d3-8889-077e2db17ca3)
+
+
+
+
 
 
 WAZUH_File-integrity-monitoring for linux
